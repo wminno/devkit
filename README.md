@@ -1,5 +1,7 @@
 # DevKit quick-tools
 
+[![Glama TDQS A](https://glama.ai/mcp/connectors/net.bigfloppy.devkit/devkit/badges/score.svg)](https://glama.ai/mcp/connectors/net.bigfloppy.devkit/devkit)
+
 A free, no-auth **Model Context Protocol (MCP) server** with six tiny developer
 utilities over remote streamable HTTP. Listed in the official MCP registry.
 
@@ -9,6 +11,7 @@ utilities over remote streamable HTTP. Listed in the official MCP registry.
 - **Stats:** `https://devkit.bigfloppy.net/api/v1/stats`
 - **Price:** free up to 60 requests/min per IP
 - **Registry:** `net.bigfloppy.devkit/devkit` (official MCP registry)
+- **Glama:** [connector page](https://glama.ai/mcp/connectors/net.bigfloppy.devkit/devkit) — tool definitions rated A
 
 ## Tools
 
